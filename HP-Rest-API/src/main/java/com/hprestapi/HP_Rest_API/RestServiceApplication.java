@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class HpRestApiApplication {
+public class RestServiceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(HpRestApiApplication.class, args);
+		SpringApplication.run(RestServiceApplication.class, args);
 	}
 
 }
